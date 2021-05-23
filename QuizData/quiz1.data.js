@@ -270,3 +270,30 @@ const podcastQuiz1Data = {
 
 
 module.exports = podcastQuiz1Data;
+
+
+// { id:uuidv4(),
+//       points: 5,
+//       negativePoints:2,
+//       question: "What are the 3 TYPES OF PODCASTS ?",
+//       points: 5,
+//       options: [
+//         {
+//           answer: "Enhanced Podcast, Video Podcast, Modcast",
+//           isRight: false
+//         },
+//         {
+//           answer: "Podcast, Enhanced Podcast, Video Podcast",
+//           isRight: true
+//         },
+//         {
+//           answer: "Podcasters, Modcasts, Mobilecasts",
+//           isRight: false
+//         },
+//         {
+//           answer:
+//             "All",
+//           isRight: false
+//         }
+//       ]
+//     },
